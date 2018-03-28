@@ -1,2 +1,2 @@
 <?php
-echo "Bring me to life";
+echo "You're in the arms of the angel. May you find some comfort here.";
